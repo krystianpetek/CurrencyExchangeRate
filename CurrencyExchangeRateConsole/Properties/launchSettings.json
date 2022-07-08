@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "CurrencyExchangeRateConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "CHF 2018-09-01 2019-01-01"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
